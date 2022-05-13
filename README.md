@@ -22,7 +22,7 @@ adopt:
 
 feed+name:
 
-![image](https://github.com/Yihan222/6883Patronus/blob/67af7cf44188abe8daa4aaf7f03a5e31bac3f097/gif/feed+name.gif)
+![image](https://github.com/Yihan222/6883Patronus/blob/67af7cf44188abe8daa4aaf7f03a5e31bac3f097/gif/FeedAndRename.gif)
 
 
 sell:

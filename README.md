@@ -1,5 +1,5 @@
-#  ELEN6883 course project: Patronus
-Created by Yihan Zhu (yz4152), Mengdie Zhang (mz2835) and Youhan Li (yl4840).
+#  ELEN6883 Final Project: Patronus
+Created by Yihan Zhu (yz4152), Youhan Li (yl4840) and Mengdie Zhang (mz2835).
 
 ## Steps for deployment and use
 

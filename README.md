@@ -9,3 +9,7 @@ Created by Yihan Zhu (yz4152), Youhan Li (yl4840) and Mengdie Zhang (mz2835).
 - Make sure you have Metamask wallet installed before you start the project.
 - In the project directory, run **`npm install`** to install necessary dependencies then run **`npm run start`** to start the project and you can view it in your browser. 
 - Enjoy your journey with your Patronus!
+
+
+
+![image](https://github.com/Yihan222/6883Patronus/blob/67af7cf44188abe8daa4aaf7f03a5e31bac3f097/gif/adopt.gif)

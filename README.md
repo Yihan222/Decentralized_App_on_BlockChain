@@ -11,12 +11,25 @@ Created by Yihan Zhu (yz4152), Youhan Li (yl4840) and Mengdie Zhang (mz2835).
 - Enjoy your journey with your Patronus!
 
 app:
+
 ![image](https://github.com/Yihan222/6883Patronus/blob/67af7cf44188abe8daa4aaf7f03a5e31bac3f097/gif/app.gif)
+
+
 adopt:
+
 ![image](https://github.com/Yihan222/6883Patronus/blob/67af7cf44188abe8daa4aaf7f03a5e31bac3f097/gif/adopt.gif)
+
+
 feed+name:
+
 ![image](https://github.com/Yihan222/6883Patronus/blob/67af7cf44188abe8daa4aaf7f03a5e31bac3f097/gif/feed+name.gif)
+
+
 sell:
+
 ![image](https://github.com/Yihan222/6883Patronus/blob/67af7cf44188abe8daa4aaf7f03a5e31bac3f097/gif/sell.gif)
+
+
 buy:
+
 ![image](https://github.com/Yihan222/6883Patronus/blob/67af7cf44188abe8daa4aaf7f03a5e31bac3f097/gif/buy.gif)

@@ -1,6 +1,5 @@
 #  ELEN6883 Final Project: Patronus
 This project is a crypto game of patronus. The dapp uses Metamask as the gateway, React APP as the frontend, and is deployed with truffle and Ganache.
-Created by Yihan Zhu (yz4152), Youhan Li (yl4840) and Mengdie Zhang (mz2835).
 
 ## Steps for Deployment
 

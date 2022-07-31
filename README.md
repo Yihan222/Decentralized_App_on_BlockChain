@@ -1,4 +1,3 @@
-#  ELEN6883 Final Project: Patronus
 This project is a crypto game of patronus. The dapp uses Metamask as the gateway, React APP as the frontend, and is deployed with truffle and Ganache.
 
 ## Steps for Deployment
